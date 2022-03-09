@@ -7,7 +7,6 @@ public class JavaKonfliktusKezeles {
         String nev1 = "bíbor";
         String nev2 = "niki";
         String nev3;
-        int nev = 3;
 
 
     }
